@@ -16,7 +16,7 @@ I'm Muhammad Mudassir, a Full Stack Developer building scalable, user-friendly w
 
 - 🔭 I’m currently working at AJ Programmers
 - :computer: Most used line of code `git commit -m "working perfectly"`
-- 🤔 I’m exploring advanced MERN stack and clean architecture in PHP/Laravel.
+- 🤔 I’m exploring advanced MERN stack and clean architecture.
 - 📫 How to reach me: mmudassir.dev@gmail.com
 - 😄 Pronouns: Developer, Creator, Tech-Enthusiast
 - ⚡ Fun fact: I often spend hours solving bugs and enjoy every minute of it!
