@@ -10,6 +10,7 @@ I'm Muhammad Mudassir, a Full Stack Developer building scalable, user-friendly w
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Muhammad%20Mudassir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mudassir1/) 
 [![Gmail Badge](https://img.shields.io/badge/-mudassir22b@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mudassir22b@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@amudassir__-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/amudassir_/#)
 
 ### What I currently Do
 
@@ -40,7 +41,7 @@ I'm Muhammad Mudassir, a Full Stack Developer building scalable, user-friendly w
 
 ### My Development Philosophy
 
-I’m passionate about clean code, reusability, and user-centric solutions. Whether I’m building a product for a startup or a tool for internal use, I believe in delivering scalable, maintainable, and intuitive apps.
+I’m passionate about clean code, reusability, and user-centric solutions. Whether I’m building a product for a startup or a tool for internal use, I believe in delivering scalable, maintainable, and intuitive webs.
 
 ### Want to work together?
 Reach out via email or LinkedIn and let’s build something amazing!
@@ -50,11 +51,13 @@ Reach out via email or LinkedIn and let’s build something amazing!
 #### Coding Stats
 
 ```
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript   18 hrs 15 mins  ██████████████████▓░░░░░░   68.2 %
+TypeScript    3 hrs 50 mins  ████▓░░░░░░░░░░░░░░░░░░░░   14.4 %
+React         2 hrs 10 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   08.1 %
+Node.js       1 hr 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.2 %
+HTML          1 hr 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   04.1 %
+
+
 ```
 
 ### GitHub Stats
