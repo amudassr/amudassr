@@ -1,8 +1,8 @@
 ## Hi I'm Muhammad Mudassir <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Building digital solutions with **AJ Programmers** ⚡️
+Building **AJ Programmers** ⚡️
 
-I'm Muhammad Mudassir, a Full Stack Developer specializing in scalable, user-friendly web apps with React and Node.js. I enjoy building real-world projects and exploring new tools to boost productivity.
+I'm Muhammad Mudassir, a Full Stack Developer building scalable, user-friendly web with React and Node.js. Passionate about real projects and new tools.
 
 
 📘 I'm currently creating web solutions for global clients with AJ Programmers.
