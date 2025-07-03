@@ -31,24 +31,6 @@ I'm Muhammad Mudassir, a Full Stack Developer building scalable, user-friendly w
 
 ---
 
-### GitHub Stats
-
-![Mudassir's github stats](https://github-readme-stats.vercel.app/api?username=mudassiir&count_private=true&theme=tokyonight&show_icons=true)
-
-![Mudassir's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mudassiir&theme=tokyonight)
-
-![Mudassir's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiir&layout=compact&theme=tokyonight)
-
-#### Coding Stats
-
-```
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mudassiir.mudassiir)
@@ -64,3 +46,22 @@ I’m passionate about clean code, reusability, and user-centric solutions. Whet
 Reach out via email or LinkedIn and let’s build something amazing!
 
 </details>
+
+#### Coding Stats
+
+```
+TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+
+### GitHub Stats
+
+![Mudassir's github stats](https://github-readme-stats.vercel.app/api?username=mudassiir&count_private=true&theme=tokyonight&show_icons=true)
+
+
+
+
+
