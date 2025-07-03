@@ -62,7 +62,8 @@ HTML          1 hr 10 mins   █▓░░░░░░░░░░░░░░░
 
 ### GitHub Stats
 
-![Mudassir's github stats](https://github-readme-stats.vercel.app/api?username=mudassiir&count_private=true&theme=tokyonight&show_icons=true)
+
+![Mudassir's github stats](https://github-readme-stats.vercel.app/api?username=amudassr&count_private=true&show_icons=true&bg_color=1e1e2e&title_color=ffcc00&text_color=c9d1d9&icon_color=ffcc00&border_color=30363d)
 
 
 
