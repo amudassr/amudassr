@@ -2,7 +2,8 @@
 
 Building digital solutions with **AJ Programmers** ⚡️
 
-I'm Muhammad Mudassir, a Full Stack Web Developer focused on building scalable and user-friendly web applications using modern technologies like React and Node.js. I love working on real-world projects and exploring new tools that enhance developer productivity.
+I'm Muhammad Mudassir, a Full Stack Developer specializing in scalable, user-friendly web apps with React and Node.js. I enjoy building real-world projects and exploring new tools to boost productivity.
+
 
 📘 I'm currently creating web solutions for global clients with AJ Programmers.
 
