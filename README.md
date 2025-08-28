@@ -15,6 +15,9 @@ I'm Muhammad Mudassir, a Full Stack Developer passionate about building scalable
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amudassr&layout=compact&langs_count=8&theme=radical" alt="amudassr's top languages" />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=amudassr&theme=radical&date_format=j%20M%5B%20Y%5D" />
+</div>
 
 
 ## 🔥 Recent Activity
