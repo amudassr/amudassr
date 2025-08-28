@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Muhammad Mudassir
+### Hi there 👋 I'm Muhammad Mudassir
 
-# 💫 About Me
-**Full Stack Developer | React & Node.js | Scalable Solutions**
+# 💫 About Me:
+Full Stack Developer | React & Node.js | Scalable Solutions
 
 I'm Muhammad Mudassir, a Full Stack Developer passionate about building scalable, user-friendly web applications using React and Node.js. I enjoy solving real-world problems, exploring modern tools, and writing clean, maintainable code.
 
