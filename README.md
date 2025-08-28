@@ -6,7 +6,7 @@ Full Stack Developer | React & Node.js | Scalable Solutions
 I'm Muhammad Mudassir, a Full Stack Developer passionate about building scalable, user-friendly web applications using React and Node.js. I enjoy solving real-world problems, exploring modern tools, and writing clean, maintainable code.
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,mongodb,mysql,ts,js,html,css,tailwind,redux,firebase,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,mongodb,mysql,ts,js,html,css,tailwind,redux,angular,docker,git)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 <div align="center">
