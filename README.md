@@ -10,13 +10,15 @@ I'm Muhammad Mudassir, a Full Stack Developer passionate about building scalable
 
 ## 📈 GitHub Stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amudassr&layout=compact&langs_count=8&theme=radical" alt="amudassr's stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amudassr&layout=compact&langs_count=8&theme=radical" alt="amudassr's top languages" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amudassr&show_icons=true&theme=radical" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amudassr&layout=compact&langs_count=8&theme=radical" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=amudassr&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=amudassr&theme=radical" />
 </div>
 
 
