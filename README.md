@@ -9,6 +9,19 @@ I'm Muhammad Mudassir, a Full Stack Developer passionate about building scalable
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,mongodb,mysql,ts,js,html,css,tailwind,redux,angular,docker,git)](https://skillicons.dev)
 
 
+## 📈 GitHub Stats
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amudassr&layout=compact&langs_count=8&theme=radical" alt="amudassr's stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amudassr&layout=compact&langs_count=8&theme=radical" alt="amudassr's top languages" />
+
+  </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=amudassr&theme=radical&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+
 ## 🔥 Recent Activity
 [![amudassr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amudassr&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
