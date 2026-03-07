@@ -20,7 +20,7 @@ I'm Muhammad Mudassir, a Full Stack Developer passionate about building scalable
 
 
 ## 🔥 Recent Activity
-[![amudassr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amudassr&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![amudassr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amudassr&theme=dracula&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Connect With Me
 <p align="center">
